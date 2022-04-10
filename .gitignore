@@ -1,0 +1,13 @@
+/build/
+target
+bin
+*.class
+.metadata/
+*.project
+*.settings
+*.classpath
+*.idea
+*.iml
+*.log
+application.properties
+
