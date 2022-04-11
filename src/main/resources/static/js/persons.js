@@ -1,7 +1,7 @@
 'use strict';
 
 var hostname=window.location.hostname;
-var api = 'https://'+hostname+':8082/api/persons';
+var api = 'https://'+hostname+':8080/api/persons';
 var personsDataTable;
 
 $(document).ready(function() {
