@@ -1,7 +1,7 @@
 'use strict';
 
 var hostname=window.location.hostname;
-var api = hostname+'/api/persons';
+var api = 'api/persons';
 var personsDataTable;
 
 $(document).ready(function() {
